@@ -13,19 +13,19 @@ feature:
   title: OpenGeoScales features
   feature_item:
   - name: Open Data
-    icon: fas fa-code
+    icon: fas fa-database
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Open Source
-    icon: fas fa-object-group
+    icon: fab fa-github
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Geospatial Analysis
-    icon: fas fa-user-clock
+    icon: fas fa-map-marked-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Climate Actions
-    icon: fas fa-heart
+    icon: fas fa-globe
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Collaboration
-    icon: fas fa-tachometer-alt
+    icon: fas fa-users-cog
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Cloud storage
     icon: fas fa-cloud
