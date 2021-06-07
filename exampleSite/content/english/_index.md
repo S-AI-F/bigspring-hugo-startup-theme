@@ -1,6 +1,6 @@
 ---
 banner:
-  title: OpenGeoScales <br> An Open Source Framework for standardizing carbon emissions
+  title: OpenGeoScale <br> An Open Source Framework for standardizing carbon emissions
     data
   image: images/OGS-GlobalView.png
   content: An Open Source Framework for standardizing carbon emissions data
