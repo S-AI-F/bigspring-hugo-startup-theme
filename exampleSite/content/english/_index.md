@@ -10,30 +10,30 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: OpenGeoScales features
   feature_item:
-  - name: Clean Code
+  - name: Open Data
     icon: fas fa-code
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+  - name: Open Source
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+  - name: Geospatial Analysis
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+  - name: Climate Actions
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+  - name: Collaboration
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: Cloud storage
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Data integration
     images:
     - images/service-1.png
     - images/service-2.png
@@ -47,7 +47,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Data processing
     images:
     - images/service-1.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
@@ -89,7 +89,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Do you want to contribute?
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
