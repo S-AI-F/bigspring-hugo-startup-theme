@@ -1,15 +1,13 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Contact Us
+subtitle: ''
+description: This is meta description
+
 ---
+### You are welcome to contribute!
 
+OpenGeoScales project is always looking for new open source contributors!
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: +33 6 35 36 18 65**
+* **Mail: opengeoscales@gmail.com**
+* **Address: Paris**
