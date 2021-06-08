@@ -5,8 +5,8 @@ banner:
   content: An Open Source Framework for standardizing carbon emissions data
   button:
     enable: true
-    label: Contact With Us
-    link: contact
+    label: Github
+    link: Github
 feature:
   enable: true
   title: OpenGeoScales features
