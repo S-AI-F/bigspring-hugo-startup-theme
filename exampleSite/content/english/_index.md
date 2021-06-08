@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: Github
-    link: Github
+    link: (https://github.com/OpenGeoScales "OpenGeoScales GitHub")
 feature:
   enable: true
   title: OpenGeoScales features
