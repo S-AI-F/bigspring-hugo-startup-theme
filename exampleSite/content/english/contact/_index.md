@@ -8,6 +8,5 @@ description: This is meta description
 
 OpenGeoScales project is always looking for new open source contributors!
 
-* **Phone: +33 6 35 36 18 65**
 * **Mail: opengeoscales@gmail.com**
-* **Address: Paris**
+* **GIthub: https://github.com/OpenGeoScales**
